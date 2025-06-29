@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#calendar {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.fc-event {
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 2px;
+}
+
+.fc-event-title {
+    white-space: normal;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+    border-radius: 4px;
+    word-break: break-word;
+}
+
+.modal-content {
+    border-radius: 8px;
+}
